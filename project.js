@@ -5,7 +5,7 @@ const zq =document.querySelector('.zq');
 const ddRect = dd.getBoundingClientRect();
 const zqReact =zq.getBoundingClientRect();
 qq.addEventListener('click',() => {
-    ff.innerText = 'love you pronomita';
+    ff.innerText = 'love you ';
     });
 zq.addEventListener('mouseover' , ()=> {
     const i = Math.floor(Math.random() * 
